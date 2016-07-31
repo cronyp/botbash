@@ -1,3 +1,4 @@
+# Pokemon-Go Bot Bash Boot
 ## Purpose
 This suggests how to implement multi-user functionality using the current release of PokemonGo-Bot from the dev branch
 ## Application
